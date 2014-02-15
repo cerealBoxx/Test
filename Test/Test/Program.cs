@@ -11,7 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("TEST");
-            Console.WriteLine("Tsveti test");
+            Console.WriteLine("Tsveti test abvgd");
         }
     }
 }
